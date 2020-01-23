@@ -1,0 +1,24 @@
+{
+"movies": [
+        {
+            "id": 1,
+            "title": "Glass",
+            "releaseDate": 2019
+        },
+        {
+            "id": 2,
+            "title": "The Kid Who Would Be King",
+            "releaseDate": 2019
+        },
+        {
+            "id": 3,
+            "title": "Miss Bala",
+            "releaseDate": 2019
+        },
+        {
+            "id": 4,
+            "title": "What Men Want",
+            "releaseDate": 2019
+        }
+    ]
+}

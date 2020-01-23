@@ -1,0 +1,8 @@
+.movie {
+    border: 1px solid red;
+}
+
+.center {
+    display: inline;
+    justify-content: center;
+}
